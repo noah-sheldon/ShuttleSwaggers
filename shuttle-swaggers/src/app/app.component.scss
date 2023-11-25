@@ -3,16 +3,3 @@ $font-stack: Helvetica, sans-serif;
 body {
     font-family: $font-stack;
 }
-
-$primary-color: orange;
-
-.navbar {
-    background-color:  $primary-color !important;
-}
-
-.logo {
-    height: 50px;
-    width: 50px;
-    border: 1px solid white;
-    border-radius: 35px;
-}
