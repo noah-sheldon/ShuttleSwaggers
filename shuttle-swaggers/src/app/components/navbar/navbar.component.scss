@@ -1,7 +1,7 @@
-$primary-color: orange;
-
 .navbar {
-    background-color:  $primary-color !important;
+    // background-color:  $primary-color !important;
+    background: rgb(38,178,184);
+    background: linear-gradient(0deg, rgba(38,178,184,1) 0%, rgba(64,93,255,1) 100%);
 }
 
 .logo {
